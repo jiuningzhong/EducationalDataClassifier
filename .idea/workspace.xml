@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f4c0d235-f511-4843-a569-22ade17f925d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Latest-News-Classifier-master.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Latest-News-Classifier-master.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0. Latest News Classifier/Quora Topic Modeling_scikit learn_LDA.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/0. Latest News Classifier/Quora Topic Modeling_scikit learn_LDA.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="f4c0d235-f511-4843-a569-22ade17f925d" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +41,7 @@
       <workItem from="1583082234534" duration="562000" />
       <workItem from="1583100173916" duration="36000" />
       <workItem from="1583200839413" duration="11000" />
+      <workItem from="1586047402308" duration="12000" />
     </task>
     <servers />
   </component>
